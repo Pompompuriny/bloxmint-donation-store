@@ -1,0 +1,212 @@
+{
+  "passes": [
+    {
+      "name": "REAPER",
+      "id": 2036090286,
+      "price": 5,
+      "requiresGamblerRole": false,
+      "isGamblerRole": false,
+      "icon": null
+    },
+    {
+      "name": "WRATH",
+      "id": 2038142267,
+      "price": 10,
+      "requiresGamblerRole": false,
+      "isGamblerRole": false,
+      "icon": null
+    },
+    {
+      "name": "30k coins",
+      "id": 2026532592,
+      "price": 10,
+      "requiresGamblerRole": true,
+      "isGamblerRole": false,
+      "icon": null
+    },
+    {
+      "name": "HAVOC",
+      "id": 2037944261,
+      "price": 20,
+      "requiresGamblerRole": false,
+      "isGamblerRole": false,
+      "icon": null
+    },
+    {
+      "name": "ROGUE",
+      "id": 2037890261,
+      "price": 30,
+      "requiresGamblerRole": false,
+      "isGamblerRole": false,
+      "icon": null
+    },
+    {
+      "name": "150k coins",
+      "id": 2026448575,
+      "price": 30,
+      "requiresGamblerRole": true,
+      "isGamblerRole": false,
+      "icon": null
+    },
+    {
+      "name": "RUTHLESS",
+      "id": 2038232264,
+      "price": 50,
+      "requiresGamblerRole": false,
+      "isGamblerRole": false,
+      "icon": null
+    },
+    {
+      "name": "VENOM",
+      "id": 2037236267,
+      "price": 70,
+      "requiresGamblerRole": false,
+      "isGamblerRole": false,
+      "icon": null
+    },
+    {
+      "name": "OUTLAW",
+      "id": 2037212266,
+      "price": 100,
+      "requiresGamblerRole": false,
+      "isGamblerRole": false,
+      "icon": null
+    },
+    {
+      "name": "500k coins",
+      "id": 2027036582,
+      "price": 100,
+      "requiresGamblerRole": true,
+      "isGamblerRole": false,
+      "icon": null
+    },
+    {
+      "name": "VIP I",
+      "id": 2025914600,
+      "price": 100,
+      "requiresGamblerRole": false,
+      "isGamblerRole": false,
+      "icon": null
+    },
+    {
+      "name": "Fish",
+      "id": 2036210513,
+      "price": 150,
+      "requiresGamblerRole": false,
+      "isGamblerRole": true,
+      "icon": null
+    },
+    {
+      "name": "1.2M coins",
+      "id": 2027102574,
+      "price": 200,
+      "requiresGamblerRole": true,
+      "isGamblerRole": false,
+      "icon": null
+    },
+    {
+      "name": "Bronze Donater",
+      "id": 2002940361,
+      "price": 200,
+      "requiresGamblerRole": false,
+      "isGamblerRole": false,
+      "icon": null
+    },
+    {
+      "name": "Sharp Card",
+      "id": 2037020534,
+      "price": 300,
+      "requiresGamblerRole": false,
+      "isGamblerRole": true,
+      "icon": null
+    },
+    {
+      "name": "VIP II",
+      "id": 2026316586,
+      "price": 300,
+      "requiresGamblerRole": false,
+      "isGamblerRole": false,
+      "icon": null
+    },
+    {
+      "name": "Silver package",
+      "id": 2025621190,
+      "price": 300,
+      "requiresGamblerRole": false,
+      "isGamblerRole": false,
+      "icon": null
+    },
+    {
+      "name": "Whale",
+      "id": 2039810308,
+      "price": 500,
+      "requiresGamblerRole": false,
+      "isGamblerRole": true,
+      "icon": null
+    },
+    {
+      "name": "VIP III",
+      "id": 2026634571,
+      "price": 500,
+      "requiresGamblerRole": false,
+      "isGamblerRole": false,
+      "icon": null
+    },
+    {
+      "name": "Silver Donater",
+      "id": 2014484347,
+      "price": 500,
+      "requiresGamblerRole": false,
+      "isGamblerRole": false,
+      "icon": null
+    },
+    {
+      "name": "Gold Donater",
+      "id": 2025986835,
+      "price": 1000,
+      "requiresGamblerRole": false,
+      "isGamblerRole": false,
+      "icon": null
+    },
+    {
+      "name": "Platinum Donater",
+      "id": 1999562949,
+      "price": 1500,
+      "requiresGamblerRole": false,
+      "isGamblerRole": false,
+      "icon": null
+    },
+    {
+      "name": "Diamond Donater",
+      "id": 1999448883,
+      "price": 3000,
+      "requiresGamblerRole": false,
+      "isGamblerRole": false,
+      "icon": null
+    },
+    {
+      "name": "Elite Donater",
+      "id": 1993856429,
+      "price": 5000,
+      "requiresGamblerRole": false,
+      "isGamblerRole": false,
+      "icon": null
+    },
+    {
+      "name": "Star Donater",
+      "id": 2026316766,
+      "price": 10000,
+      "requiresGamblerRole": false,
+      "isGamblerRole": false,
+      "icon": null
+    },
+    {
+      "name": "Supreme Donater",
+      "id": 2027084777,
+      "price": 20000,
+      "requiresGamblerRole": false,
+      "isGamblerRole": false,
+      "icon": null
+    }
+  ]
+}
